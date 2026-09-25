@@ -1,1 +1,2 @@
 # rift-runner
+index.html
